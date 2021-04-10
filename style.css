@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+body {
+    background-color: silver;
+    text-align: center;
+}
+li {
+    text-align: left; border-width:7px; border-style:outset; border-color:gold; background-color:lightblue;
+    font-size: 20px;
+}
